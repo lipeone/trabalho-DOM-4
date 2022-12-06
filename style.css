@@ -4,3 +4,7 @@ body{
     color: white;
     font-family: 'Courier New', Courier, monospace;
 }
+button{
+    border-radius: 5px;
+    margin: 3%;
+}
